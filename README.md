@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hannadem12
-- 👀 I’m interested in DataScience and AI
+- 👀 I’m interested in DataScience, AI and neuroscience.
 - 🌱 I’m currently learning Computer Science at University of Houston
 - 💞️ I’m looking to collaborate on any projects in datascience, software development and data analysis
 - 📫 How to reach me through my email hannadasfaw@gmail.com
